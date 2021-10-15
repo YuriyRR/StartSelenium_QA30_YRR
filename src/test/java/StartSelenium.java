@@ -31,7 +31,7 @@ public class StartSelenium {
 
         wd.findElement(By.className("container"));
         wd.findElement(By.className("navbar-component_nav__1X_4m"));
-        wd.findElement(By.className());
+        wd.findElement(By.className(""));
 
         wd.findElement(By.id(""));
 
